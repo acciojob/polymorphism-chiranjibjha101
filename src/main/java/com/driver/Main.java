@@ -1,6 +1,9 @@
 package com.driver;
 
 public class Main {
+    Main(){
+
+    }
     static class Product{
         public Product() {
         }
